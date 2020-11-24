@@ -12,7 +12,7 @@
 
 ## Nuestras películas
 
-* ** [Avatar](avatar.md) **
+* ** [Avatar](https://github.com/PabloGomezB/pelis/blob/main/docs/avatar.md) **
 * ** [Interestelar](interestelar.md) **
 * ** [Hook](hook.md) **
 * ** [Titanic](titanic.md) **
