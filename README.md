@@ -13,7 +13,7 @@
 ## Nuestras películas
 
 * ** [Avatar](https://github.com/PabloGomezB/pelis/blob/main/docs/avatar.md) **
-* ** [Interestelar](interestelar.md) **
-* ** [Hook](hook.md) **
-* ** [Titanic](titanic.md) **
-* ** [Posiblemente el peor live action de la historia](dragoncacas.md) **
+* ** [Interestelar](https://github.com/PabloGomezB/pelis/blob/main/docs/interestelar.md) **
+* ** [Hook](https://github.com/PabloGomezB/pelis/blob/main/docs/hook.md) **
+* ** [Titanic](https://github.com/PabloGomezB/pelis/blob/main/docs/titanic.md) **
+* ** [Posiblemente el peor live action de la historia](https://github.com/PabloGomezB/pelis/blob/main/docs/dragoncacas.md) **
