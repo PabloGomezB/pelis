@@ -1,19 +1,16 @@
-# Welcome to MkDocs
+# Bienvenido a Pelis
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+![mkdocs.org](/img/n.jpg){: style="height:350px;width:750px"}
+(Esto no tiene nada que ver con Nextflix, no se que es "Nexflix". No se de qué copyrigth me hablas)
 
-## Commands
+## ¿Que verás aquí?
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+* `Poca cosa la verdad` - Un poco de info y ya.
 
-## Project layout
+## Nuestras películas
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
-
-# Añado esta linea
+* ** [Avatar](avatar.md) **
+* ** [Interestelar](interestelar.md) **
+* ** [Hook](hook.md) **
+* ** [Titanic](titanic.md) **
+* ** [Posiblemente el peor live action de la historia](dragoncacas.md) **
