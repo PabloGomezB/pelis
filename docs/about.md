@@ -1,21 +1,19 @@
-site_name: Pelis
+# ¿Footer?
 
-nav:
-  - Home: index.md
-  - Interestelar: interestelar.md
-  - Avatar: avatar.md
-  - Titanic: titanic.md
-  - Hook: hook.md
-  - Dragonball Evolution: dragoncacas.md
-  - About: about.md
+Para poner el footer ha sido necesario cambiar el tema del proyecto, además de añadir las siguientes líneas indicando:
 
+* Icono (lirbería de fontsawesome)
+* Link al que acceder cuando se haga click
+* Nombre del tag cuando el cursor haga hover
+
+### mkdocs.yml:
+```
+# Tema
 theme:
   name: material
   favicon: img/favicon.png
 
-markdown_extensions:
-  - attr_list
-
+# Footer
 extra:
   social:
     - icon: fontawesome/brands/instagram
@@ -34,4 +32,6 @@ extra:
       link: https://www.linkedin.com/
       name: Linkedin
 
+# Copyrigth
 copyright: Copyright &copy; 2020 - 2020 Pablo Gomez
+```
