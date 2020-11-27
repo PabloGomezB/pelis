@@ -1,6 +1,6 @@
 # Hook
 
-![Hook](/img/hook.jpg){: style="width:350px"}
+![Hook](./img/hook.jpg){: style="width:350px"}
 
 ## Detalles
 

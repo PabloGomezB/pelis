@@ -1,6 +1,6 @@
 # Interestellar
 
-![Interestelar](/img/interestelar.jpg){: style="width:350px"}
+![Interestelar](./img/interestelar.jpg){: style="width:350px"}
 
 ## Detalles
 

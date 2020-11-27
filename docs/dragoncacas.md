@@ -1,6 +1,6 @@
 # Dragonball Evolution
 
-![Dragonball](/img/dragoncacas.jpg){: style="width:350px"}
+![Dragonball](./img/dragoncacas.jpg){: style="width:350px"}
 
 ## Detalles
 

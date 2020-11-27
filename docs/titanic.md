@@ -1,6 +1,6 @@
 # Titanic
 
-![Titanic](/img/titanic.jpg){: style="width:350px"}
+![Titanic](./img/titanic.jpg){: style="width:350px"}
 
 ## Detalles
 

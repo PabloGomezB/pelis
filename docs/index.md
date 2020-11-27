@@ -1,6 +1,6 @@
 # Bienvenido a Pelis
 
-![mkdocs.org](/img/n.jpg){: style="height:350px;width:750px"}
+![mkdocs.org](./img/n.jpg){: style="height:350px;width:750px"}
 (Esto no tiene nada que ver con Nextflix, no se que es "Nexflix". No se de qué copyrigth me hablas)
 
 ## ¿Que verás aquí?

@@ -1,6 +1,6 @@
 # Avatar
 
-![Avatar](/img/avatar.jpg){: style="width:350px"}
+![Avatar](./img/avatar.jpg){: style="width:350px"}
 
 ## Detalles
 
